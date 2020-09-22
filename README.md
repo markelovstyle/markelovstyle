@@ -7,7 +7,7 @@
     </samp>
 </p>
 
-- 🔭 I’m currently working on a [VKBottle](https://github/timoniq/vkbottle)!
+- 🔭 I’m currently working on a [VKBottle](https://github.com/timoniq/vkbottle)!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
