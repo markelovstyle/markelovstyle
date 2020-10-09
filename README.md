@@ -42,9 +42,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       4 hrs 32 mins   ███████████████████▓░░░░░   78.63 % 
-Kotlin       1 hr 11 mins    █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Python       2 hrs 5 mins    ████████████████░░░░░░░░░   63.66 % 
+Kotlin       1 hr 11 mins    █████████░░░░░░░░░░░░░░░░   36.29 % 
 ```
 <!--END_SECTION:waka-->
 
