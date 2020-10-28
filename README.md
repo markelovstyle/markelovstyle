@@ -42,8 +42,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       8 mins          ██████████████████████░░░   88.57 % 
-Git Config   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Python       22 mins         ██████████████████▒░░░░░░   72.76 % 
+Kotlin       7 mins          ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+Git Config   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 <!--END_SECTION:waka-->
 
