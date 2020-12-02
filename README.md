@@ -42,7 +42,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       47 mins         █████████████████████████   99.61 % 
+Python            1 hr 24 mins    ███████████████████████▒░   93.82 % 
+Gettext Catalog   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Other             1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 ```
 <!--END_SECTION:waka-->
 
