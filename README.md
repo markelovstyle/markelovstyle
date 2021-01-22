@@ -42,7 +42,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Kotlin       8 mins          ████████████████████████░   96.06 % 
+Kotlin       38 mins         █████████████████▓░░░░░░░   70.20 % 
+Git Config   12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.85 % 
+Other        4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 ```
 <!--END_SECTION:waka-->
 
